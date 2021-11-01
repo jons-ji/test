@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="kcgl">
         <header>
             <router-link class="cart" tag="span" to="/cart">购物车</router-link>
@@ -237,4 +237,4 @@ header{
     }
 }
 
-</style>
+</style> -->
