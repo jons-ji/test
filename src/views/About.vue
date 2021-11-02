@@ -16,8 +16,8 @@
         <ul>
           <li><router-link to="/about/"  class="sy">系统首页</router-link></li>
           <li><router-link to="/about/jbxx"  class="sy">基本信息</router-link></li>
-          <li><router-link to="/about/kcgl"  class="sy">课程管理</router-link></li>
-          
+          <li><router-link to="/about/kcgl"  class="sy">购物管理</router-link></li>
+          <li><router-link to="/about/xtsy" class="sy">我的</router-link></li>
         </ul>
       </div>
           <router-view />
